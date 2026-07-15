@@ -138,73 +138,7 @@ Before running this project, ensure you have installed:
 
 ---
 
-## Clone Repository
 
-```bash
-git clone https://github.com/YourUsername/fit_calorie_tracker.git
-```
-
-Move into the project directory.
-
-```bash
-cd fit_calorie_tracker
-```
-
----
-
-## Install Dependencies
-
-```bash
-flutter pub get
-```
-
----
-
-## Run the Application
-
-```bash
-flutter run
-```
-
----
-
-# 📸 Screenshots
-
-
-
-### Splash Screen
-
-*(Insert Screenshot)*
-
-### Login Screen
-
-*(Insert Screenshot)*
-
-### Dashboard
-
-*(Insert Screenshot)*
-
-### Calorie Tracker
-
-*(Insert Screenshot)*
-
-### Nutrition Tracker
-
-*(Insert Screenshot)*
-
-### Water Tracker
-
-*(Insert Screenshot)*
-
-### Workout Screen
-
-*(Insert Screenshot)*
-
-### Reports
-
-*(Insert Screenshot)*
-
----
 
 # 📊 Modules
 
@@ -305,34 +239,7 @@ This repository includes:
 
 ---
 
-# 🤝 Contributing
 
-Contributions are welcome.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a new branch.
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes.
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push to GitHub.
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request.
-
----
 
 # 📜 License
 
